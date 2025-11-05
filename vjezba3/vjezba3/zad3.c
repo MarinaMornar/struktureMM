@@ -86,7 +86,7 @@ int Ispis(Poz P)
 int UnosK(Poz P, char* name, char* surname, int birth)
 {
     while (P->next != NULL)
-        P = P->next;  //prolazimo kroz listu od jednog čvora do sljedećeg
+        P = P->next;  //prolazimo kroz listu od jednog čvora do sljedećeg      
 
     UnosP(P, name, surname, birth);
 
