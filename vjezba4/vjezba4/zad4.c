@@ -26,6 +26,7 @@ int main()
 	Polinom Head2 = { .next = NULL, .Koef = 0, .Pot = 0 };
 	Polinom HeadZbr = { .next = NULL, .Koef = 0, .Pot = 0 };
 	Polinom HeadMnoz = { .next = NULL, .Koef = 0, .Pot = 0 };
+	
 
 	//učitavanje polinoma iz datoteke
 	Unos_red(&Head1, 1);
@@ -110,7 +111,7 @@ int Unos_red(list P, int i)
 	}
 
 	if (i == 2)
-		fgets(buffer, MAX_LINE, f); //kako bi se pomakli red u fileu ni�e za 2. polinom
+		fgets(buffer, MAX_LINE, f); //kako bi se pomakli red u fileu niže za 2. polinom
 
 	fgets(buffer, MAX_LINE, f);
 	temp = buffer;
