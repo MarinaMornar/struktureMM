@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marina\\Desktop\\struktureMM\\vjezba9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A197B98-B0C2-4C20-BF44-8413F2145A8C}|vjezba9\\vjezba9.vcxproj|C:\\Users\\Marina\\Desktop\\struktureMM\\vjezba9\\vjezba9\\zad9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A197B98-B0C2-4C20-BF44-8413F2145A8C}|vjezba9\\vjezba9.vcxproj|solutionrelative:vjezba9\\zad9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad9.c",
+              "DocumentMoniker": "C:\\Users\\Marina\\Desktop\\struktureMM\\vjezba9\\vjezba9\\zad9.c",
+              "RelativeDocumentMoniker": "vjezba9\\zad9.c",
+              "ToolTip": "C:\\Users\\Marina\\Desktop\\struktureMM\\vjezba9\\vjezba9\\zad9.c",
+              "RelativeToolTip": "vjezba9\\zad9.c",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-07T21:02:46.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
